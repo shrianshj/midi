@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvfbulus004301pohf0tmasj). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Learn PCB design by creating your own custom MIDI keypad with switches, sliders, rotary encoders, neopixels and capacitive touch!
+> This is my FIRST ever time creating a PCB. My first ever time opening KiCad...my first ever time doing a single task for nine hours...but I learnt a lot and I'm happy with what I made!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-25 – Alrighty I haven't done ANYTHING today so 7.5 hours now then a break then im gonna do a night shift and do ANOTHER 7.5 hours. that should catch me up. then tomorrow imma lock in.](#2026-10-25-alrighty-i-havent-done-anything-today-so-75-hours)
+1. [2026-10-25 – Alrighty I haven't done ANYTHING today so 9.5 hours now and tomorrow imma lock in.](#2026-10-25-alrighty-i-havent-done-anything-today-so-95-hours)
 
 ## Design
 
-### 2026-10-25 – Alrighty I haven't done ANYTHING today so 7.5 hours now then a break then im gonna do a night shift and do ANOTHER 7.5 hours. that should catch me up. then tomorrow imma lock in.
+### 2026-10-25 – Alrighty I haven't done ANYTHING today so 9.5 hours now and tomorrow imma lock in.
 
 **9.5h**
 
-Alrighty I haven't done ANYTHING today so 7.5 hours now then a break then im gonna do a night shift and do ANOTHER 7.5 hours. that should catch me up. then tomorrow imma lock in.
+Alrighty I haven't done ANYTHING today so 9.5 hours now and tomorrow imma lock in.
 
 Im going to give progress updates.
 Update 1: Project base is completed! GitHub repo is set up, everything is linked, KiCad is downloaded, and I'm ready to lock in!
@@ -83,3 +83,5 @@ ive been going hard since 8 am...now its 5:30pm
 ![3d_render](https://halflife.hackclub-assets.com/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/f7ff97ab865dbdd0485e5d6ca3a807c238fb43614dade7029ea1d731e2a07fc3.png)
 
 ![silkscreens](https://halflife.hackclub-assets.com/sessions/sLdkopx9koTbCUpYmwbBDDESkyQBQ1Hv/a40251944527288dcd808dcfbe129124890705ec60e804d38efa13da78eb485d.png)
+
+its dark outside...
